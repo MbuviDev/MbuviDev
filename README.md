@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
  
  
  
- # Hey there, I'm Meshack Mbuvi :sparkles: 
+ # Hey there, I'm Meshack Mbuvi 👨‍💻 
 
 ## I am a  _**Fullstack Software Developer**_ :blossom: &  _**Bsc. Information Technology**_  Graduate :mortar_board: .<br/>
 <!-- [My Portfolio Website](https://ashley-n-njoroge.vercel.app/)<br/> -->
