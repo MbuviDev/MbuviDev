@@ -95,7 +95,7 @@ You can click the Preview link to take a look at your changes.
  
  # Hey there, I'm Meshack Mbuvi :sparkles: 
 
-## I am a  _**Fullstack Software Developer**_ :blossom: &  _**Bsc. Computer Technology**_  Graduate :mortar_board: .<br/>
+## I am a  _**Fullstack Software Developer**_ :blossom: &  _**Bsc. Information Technology**_  Graduate :mortar_board: .<br/>
 <!-- [My Portfolio Website](https://ashley-n-njoroge.vercel.app/)<br/> -->
 
 I enjoy coding and learning how things work under the hood :wrench:.<br/>
@@ -140,7 +140,7 @@ I thrive in collaborative projects and understanding different POVs thus learnin
 
 ### 📫 Let's connect: <br/>
 I build my writing :pencil2::page_with_curl: muscle on [Medium](https://medium.com/@ashnjoroge).<br/>
-You can also say hi:wave: on [LinkedIn](https://www.linkedin.com/in/ashley-njeri-njoroge-404468187/) :earth_africa: 
+You can also say hi:wave: on [LinkedIn](www.linkedin.com/in/mbuvi-meshack-480027228) :earth_africa: 
 <br/>
 
 
