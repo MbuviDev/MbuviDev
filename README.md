@@ -139,8 +139,8 @@ Previously, I have worked in the social development sector and marvel at the <br
 I thrive in collaborative projects and understanding different POVs thus learning!
 
 ### 📫 Let's connect: <br/>
-I build my writing :pencil2::page_with_curl: muscle on [Medium](https://medium.com/@ashnjoroge).<br/>
-You can also say hi:wave: on [LinkedIn](www.linkedin.com/in/mbuvi-meshack-480027228) :earth_africa: 
+<!-- I build my writing :pencil2::page_with_curl: muscle on [Medium](https://medium.com/@ashnjoroge).<br/> -->
+You can also say hi:wave: on [LinkedIn](https://www.linkedin.com/in/mbuvi-meshack-480027228/) :earth_africa: 
 <br/>
 
 
