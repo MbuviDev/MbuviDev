@@ -1,6 +1,6 @@
  # Hey there, I'm Meshack Mbuvi 👨‍💻 
 
-## I am a  _**Fullstack Software Developer**_ 🎱: &  _**Bsc. Information Technology**_  Graduate :mortar_board: .<br/>
+## I am a  _**Fullstack Software Developer**_ 🎱 &  _**Bsc. Information Technology**_  Graduate :mortar_board: .<br/>
 <!-- [My Portfolio Website](https://ashley-n-njoroge.vercel.app/)<br/> -->
 
 I enjoy coding and learning how things work under the hood :wrench:.<br/>
@@ -49,10 +49,10 @@ You can also say hi:wave: on [LinkedIn](https://www.linkedin.com/in/mbuvi-meshac
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AshleyN2&show_icons=true&locale=en" alt="AshleyN2" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MbuviDev&show_icons=true&locale=en" alt="MbuviDev" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AshleyN2&" alt="AshleyN2" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshleyN2&show_icons=true&locale=en&layout=compact" alt="AshleyN2" /><p
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MbuviDev" alt="AshleyN2" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MbuviDev&show_icons=true&locale=en&layout=compact" alt="MbuviDev" /><p
 
 ### :smiley:_Cheers!_ :+1: :star2:
 
@@ -72,3 +72,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
+ 
+
