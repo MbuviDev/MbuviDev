@@ -51,7 +51,7 @@ You can also say hi:wave: on [LinkedIn](https://www.linkedin.com/in/mbuvi-meshac
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MbuviDev&show_icons=true&locale=en" alt="MbuviDev" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MbuviDev" alt="AshleyN2" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MbuviDev" alt="MbuviDev" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MbuviDev&show_icons=true&locale=en&layout=compact" alt="MbuviDev" /><p
 
 ### :smiley:_Cheers!_ :+1: :star2:
