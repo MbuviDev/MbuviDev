@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya,Nairobi.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :telescope: B.Sc. Information Technology at Jomo Kenyatta University of Agriculture and Technology currently ongoing.
 - :seedling: Exploring Technical Content with the ability to learn and implement easily.
